@@ -1,0 +1,18 @@
+Liikumine - nooleklahvid
+Tulista - space/LMB
+
+
+Praegu on mängust põhiline osa tehtud, uute relvade, zombide jms lisamine peaks olema nüüd üsna lihtne.
+
+
+Mida vaja muuta:
+1. Tuleb lisada veri - tehtud
+2. Pood veel ei tööta - tehtud
+3. Vaja lisada rohkem relvi ja uuendusi baasile - pooleldi tehtud
+4. Parandada mängija animatsioonid
+5. Lisada muusika ja helid - tehtud
+6. Lisada rohkem zombie tüüpe (ja bossid kui on aega üle)
+7. Luua zombide ründamise animatsioonid
+8. Powerup-id
+9. Peamenüü koos seadetega (taseme valik jms)
+10. Rohkem/paremad kommentaarid
